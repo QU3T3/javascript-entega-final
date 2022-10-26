@@ -168,9 +168,9 @@ window.onload = function(){
   }
 }
 
-$('.comprarButton').click(function(){
+/*$('.comprarButton').click(function(){
   Swal.fire({
     title: '¡Excelente!',
     text: 'Tu compra ha sido realizada',
   })
-})
+})*/
